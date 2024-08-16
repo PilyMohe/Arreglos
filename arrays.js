@@ -1,4 +1,6 @@
 /*
+Ejercicios en clase
+
 // Declarar un areglo vacio
 
 let verduras = [];
@@ -95,7 +97,7 @@ persona.saludar();
 
 //Otro forma de acceder a las propiedades
 console.log(persona["escolaridad"]);
-
+*/
 
 
 //Ejercicio 1 Numeros al azar
@@ -130,9 +132,9 @@ let numeromayor = Math.max(...numeros);
 console.log("El arreglo ordenado de menor a mayor:", numerosOrdenados);
 console.log("El número menor es:", numeromenor);
 console.log("El número mayor es:", numeromayor);
-*/
 
-// Ejercicio 4 Cuenta bancaria
+
+// Ejercicio Extra Cuenta bancaria 
 
 let cuentaBancaria ={
     saldo: 500,
