@@ -99,6 +99,8 @@ persona.saludar();
 console.log(persona["escolaridad"]);
 */
 
+//Intregrantes del equipo 
+//Veronica Lira Morales, Jordán Sánchez, Ricardo Leon, Elizabeth Godínez, Pilar Mondragón
 
 //Ejercicio 1 Numeros al azar
 let numeroalazars = [];
@@ -111,7 +113,7 @@ for (let i = 0; i < 10; i++) {
 
 console.log(numeroalazars);
 
-//Ejercicio 2 
+//Ejercicio 2 Palabras separadas por comas
 
 let cadena = prompt("Escribe tu Nombre, Edad, Donde vives, Profesion separados por comas");
 let resultado = cadena.split(",");
@@ -171,7 +173,7 @@ let cuentaBancaria ={
         }
     };
     
-    // Función principal para interactuar con el usuario
+    // Función para interactuar con el usuario
     function realizarOperacion() {
         let saldo = 500
         const operacion = prompt("¿Qué deseas hacer? (depositar/retirar/consultar)");
